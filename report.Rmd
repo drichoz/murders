@@ -15,7 +15,7 @@ This is a report on 2010 gun murder rates obtained from FBI reports. The origina
 
 We are going to use the following library:
 
-```{r loading-libs, message=FALSE}
+```{r loading-libs, message=FALSE, echo=T}
 library(tidyverse)
 ```
   

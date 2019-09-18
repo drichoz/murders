@@ -1,0 +1,22 @@
+---
+title: "Q6"
+author: "David Richoz"
+date: "18/09/2019"
+output: html_document
+---
+
+```{r eval=FALSE)
+a <- 2
+```
+
+```{r include=FALSE}
+print("Hello World!")
+a <- 5
+```
+
+```{r echo=FALSE}
+a <- a+1
+print(a)
+```
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
