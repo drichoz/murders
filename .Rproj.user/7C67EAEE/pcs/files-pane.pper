@@ -1,0 +1,9 @@
+{
+    "path" : "~/rprojects/murders/rda",
+    "sortOrder" : [
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}
